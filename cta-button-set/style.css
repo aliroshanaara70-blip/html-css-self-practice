@@ -1,0 +1,35 @@
+.primary-btn {
+    background-color: blue;
+    color: white;
+    border: none;
+    height: 30px;
+    width: 90px;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: small;
+    font-weight: 100px;
+}
+
+.secondary-btn {
+    background-color: transparent;
+    border-color: cornflowerblue;
+    color:rgb(132, 31, 132);
+    height: 30px;
+    width: 90px;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: small;
+    font-weight: 100px;
+}
+
+.warning-btn {
+    background-color: rgb(232, 16, 16);
+    color: white;
+    border: none;
+    height: 30px;
+    width: 90px;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: medium;
+    font-weight: 100px;
+}
