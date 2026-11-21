@@ -1,0 +1,66 @@
+p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 22px;
+}
+
+.category-tag {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(68, 99, 238);
+    margin-bottom: 5px;
+}
+
+.heading {
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    width: 460px;
+    line-height: 45px;
+}
+
+.subheading {
+   width: 480px;
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+.author-name {
+    color: rgb(100, 100, 100);
+    margin-bottom: 25px;
+    font-size: 14px;
+    font-style: italic;
+}
+
+button {
+    color: white;
+    border: none;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    cursor: pointer;
+}
+
+.read-btn {
+    background-color: rgb(236, 33, 33); 
+    border-radius: 4px;
+    transition: opacity 0.15s;
+}
+
+.read-btn:hover {
+    background-color: rgb(191, 25, 25);
+}
+
+.save-btn {
+    background-color: rgb(68, 99, 238);
+    border-radius: 15px;
+    transition: opacity 0.15s;
+    font-weight: bold;
+}
+
+.save-btn:hover {
+    opacity: 0.8;
+}
